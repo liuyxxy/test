@@ -1,18 +1,13 @@
-h1 {
-    color: yellow;
+table {
+    background-color: pink;
+    border: 5px solid purple;
+    border-collapse: collapse;
+    width: 50%;
     text-align: center;
 }
 
-table {
-    margin: 30px;
-    color: purple;
-    height: 300px;
-    width: 500px;
-    padding: 10px;
-    background-color: teal;
-}
-
-div {
-    color: red;
+th, td {
+    border: 2px solid yellow;
+    padding: 3px;
 }
 
