@@ -1,0 +1,18 @@
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+table {
+    margin: 30px;
+    color: purple;
+    height: 300px;
+    width: 500px;
+    padding: 10px;
+    background-color: teal;
+}
+
+div {
+    color: red;
+}
+
