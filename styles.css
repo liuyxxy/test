@@ -1,3 +1,7 @@
+body {
+    background-color: hotpink;
+}
+
 table {
     background-color: pink;
     border: 5px solid purple;
@@ -11,3 +15,24 @@ th, td {
     padding: 3px;
 }
 
+#first {
+    color: red;
+}
+
+.name {
+    color: royalblue;
+}
+
+.scam {
+    color: goldenrod;
+    font-family: fantasy;
+    font-size: 10px;
+}
+
+p {
+    color: limegreen;
+}
+
+h2 {
+    color: indigo;
+}
